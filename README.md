@@ -5,4 +5,8 @@ Created a new webpack project that
 - Used WebpachHtmlPlugin templates to keep required HTML
 - Used webpack-dev-server for enable live watch and debug
 
+#Author
+
+ThankGod Richard [ @Linkedin](http://linkedin.com/in/thankgodr)
+
 
